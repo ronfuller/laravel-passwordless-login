@@ -1,5 +1,5 @@
 {
-    "name": "grosv/laravel-passwordless-login",
+    "name": "psi/laravel-passwordless-login",
     "description": "Passwordless login using temporary signed URL",
     "type": "library",
     "license": "MIT",
